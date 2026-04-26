@@ -1,4 +1,4 @@
-package com.chomba.boulder.city.guide
+package com.chombacityatlaspro
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
